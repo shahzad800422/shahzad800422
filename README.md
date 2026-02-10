@@ -79,10 +79,9 @@ Enterprise dashboard for data visualization and reporting.
 
 ## 📫 Let's Connect
 
-- 💼 **Upwork:** [Top Rated Plus Profile](https://www.upwork.com/freelancers/~0116a9c010361509f8)
 - 🌐 **Portfolio:** [shahzaddev.com](https://shahzaddev.com)
-- 📧 **Email:** your.email@example.com
-- 💬 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 **Email:** shahzad800422@gmail.com
+
 
 ---
 
