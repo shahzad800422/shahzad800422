@@ -1,4 +1,4 @@
-# Hi, I'm Ali 👋
+# Hi, I'm Shahzad Ali 👋
 ### Senior Full-Stack Developer | React, Node.js & Laravel Expert | 9+ Years Experience
 
 I build production-ready web and mobile applications for startups and enterprises. **100% Job Success on Upwork** • **4,800+ hours delivered** • **$90K+ in projects completed**
