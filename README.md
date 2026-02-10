@@ -1,6 +1,6 @@
-# Hi, I'm Shahzad Ali 👋
+# Hi, I'm Ali 👋
 
-### Full-Stack Developer | 7+ Years of Experience | Building Scalable and User-Centric Solutions
+### Full-Stack Developer | 9+ Years of Experience | Building Scalable and User-Centric Solutions
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer with over 7 years of experience in designing, developing, and deploying web applications. I specialize in creating robust, scalable, and user-friendly solutions that solve real-world problems.
 
